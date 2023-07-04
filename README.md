@@ -1,5 +1,7 @@
 # See-the-Music-Hear-the-Dance
-Combine Arts with Data science
+Combine Arts with Data Science
+
+My Past projects
 
 
 
